@@ -1,4 +1,5 @@
-This project is a simple project built in C language. 
+This project is a simple project built in C language.
+
 This project has following features –
 1. It displays a nicely formatted calendar of every day of every month.
 2. The calendar application presented here is a very simple console application developed using C programming language.
